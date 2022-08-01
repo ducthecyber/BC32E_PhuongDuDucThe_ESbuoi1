@@ -17,8 +17,11 @@ const colorChoice = () => {
 }
 
 
-window.onload = colorChoice;
+window.onload = colorChoice
 
-document.getElementsByClassName('color-button pallet active').onclick = () =>{
-    console.log('lam sao bay gio');
-}
+
+
+
+
+// window.onload = colorHouse
+
